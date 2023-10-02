@@ -1,0 +1,10 @@
+Aşağıdaki görevleri çözmek için bu yerel .NET API'yi kullanın:
+
+Önceden tanımlanmış şablonlara ve veri kaynaklarına dayalı olarak raporlar, sözleşmeler ve faturalar gibi belgeler oluşturun
+Belgeleri toplu modda farklı dosya formatları arasında dönüştürün; örneğin 'Word'den PDF'ye' veya 'PDF'den Word'e'
+İlgili verileri çıkarmak ve belgeleri daha ileri işlemler için yönlendirmek için gelen belgeleri ayrıştırın
+Belge parçalarını düzenleyin: sayfaları kaldırın, belgeleri ayrı dosyalara bölün, birden fazla belgeyi tek bir belgede birleştirin
+Güvenliklerini sağlamak için hassas belgelere parola koruması, dijital imzalar ve şifreleme ekleyin
+Farklılıkları belirlemek ve değişiklikleri izlemek için belgeleri karşılaştırın
+Belgenin bütünlüğünü korumak ve gelecek yıllar boyunca okunabilir ve erişilebilir kalmasını sağlamak için belgeleri PDF gibi uzun süreli depolamaya uygun bir formatta arşivleyin
+Aspose.Words for .NET'i bugün kullanmaya başlayın ve C#'taki en üstün belge işleme çözümünü deneyimleyin!
